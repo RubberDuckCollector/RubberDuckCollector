@@ -4,6 +4,8 @@
 
 # Learning goals
 
+Projects in `Learning goals` will be in this repository.
+
 ## 2026
 
 - [ ] ziglings
