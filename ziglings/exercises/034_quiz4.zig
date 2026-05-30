@@ -14,7 +14,7 @@ pub fn main(init: std.process.Init) !void {
     var stdout_writer = std.Io.File.stdout().writer(io, &.{});
     const stdout = &stdout_writer.interface;
 
-    const my_num: u32 = getNumber();
+    const my_num: NumError!u32 = getNumber();
     if (my_num) |value| {
         try stdout.print("my_num={}\n", .{value});
     } else |err| switch (err) {
