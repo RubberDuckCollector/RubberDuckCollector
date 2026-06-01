@@ -20,3 +20,6 @@ Projects in `Learning goals` will be in this repository.
 1. Python (best)
 2. statically typed compiled language #1
 3. statically typed compiled language #2
+4. FOSS android/iOS app for dictionaries with sane defaults (like local
+   storage, fuzzy finding, quick, accessible UI, almost no lag where possible)
+    (written in zig?)
