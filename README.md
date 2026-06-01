@@ -6,7 +6,7 @@ OCR GCSE Computer Science (9-1) - J277
 
 # Learning goals
 
-Projects in `Learning goals` will be in this repository.
+Projects in `Learning goals` will be linked in this repository.
 
 ## 2026
 
