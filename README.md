@@ -1,6 +1,6 @@
 # Qualifications
 
-OCR A Level Computer science - H446
+OCR A Level Computer Science - H446
 
 OCR GCSE Computer Science (9-1) - J277
 
