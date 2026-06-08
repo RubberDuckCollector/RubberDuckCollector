@@ -18,6 +18,9 @@ OCR GCSE Computer Science (9-1) - J277
 
 Projects in `Learning goals` will be linked in this README file.
 
+Each entry is set in that year and will be completed at a later time, but will
+be noted when it is completed.
+
 ## 2026
 
 - [ ] [ziglings](https://github.com/RubberDuckCollector/RubberDuckCollector/tree/main/ziglings)
@@ -27,6 +30,7 @@ Projects in `Learning goals` will be linked in this README file.
 - FOSS android/iOS app for dictionaries with sane defaults (like local
 storage, fuzzy finding, quick, accessible UI, almost no lag where possible)
 (written in zig?)
+- [ ] [golings](https://github.com/mauricioabreu/golings)
 
 ## 2024
 
