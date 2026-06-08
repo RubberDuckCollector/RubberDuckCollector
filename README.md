@@ -1,3 +1,13 @@
+<!-- vim-markdown-toc GFM -->
+
+* [Qualifications](#qualifications)
+* [Learning goals](#learning-goals)
+    * [2026](#2026)
+    * [2024](#2024)
+    * [Languages](#languages)
+
+<!-- vim-markdown-toc -->
+
 # Qualifications
 
 OCR A Level Computer Science - H446
@@ -21,6 +31,8 @@ storage, fuzzy finding, quick, accessible UI, almost no lag where possible)
 ## 2024
 
 - [My version of Quizlet's Write mode](https://github.com/RubberDuckCollector/quizlet-write.git)
+
+## Languages
 
 1. Python (best)
 2. statically typed compiled language #1
