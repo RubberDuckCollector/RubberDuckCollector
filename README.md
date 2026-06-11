@@ -25,12 +25,11 @@ be noted when it is completed.
 
 - [ ] [ziglings](https://github.com/RubberDuckCollector/RubberDuckCollector/tree/main/ziglings)
 - [ ] [rustlings](https://github.com/RubberDuckCollector/RubberDuckCollector/tree/main/rustlings)
-- [ ] text based RPG in ruby
+- [ ] text based RPG in zig
 - [ ] [Zero to Hero C Programming](https://lowlevel.academy/courses/zero2hero)
 - FOSS android/iOS app for dictionaries with sane defaults (like local
 storage, fuzzy finding, quick, accessible UI, almost no lag where possible)
 (written in zig?)
-- [ ] [golings](https://github.com/mauricioabreu/golings)
 
 ## 2024
 
