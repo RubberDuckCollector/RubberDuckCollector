@@ -27,6 +27,7 @@ be noted when it is completed.
 - [ ] [rustlings](https://github.com/RubberDuckCollector/RubberDuckCollector/tree/main/rustlings)
 - [ ] text based RPG in zig
 - [ ] [Zero to Hero C Programming](https://lowlevel.academy/courses/zero2hero)
+- [ ] [Foundations of Rust](https://lowlevel.academy/courses/rust-101)
 - FOSS android/iOS app for dictionaries with sane defaults (like local
 storage, fuzzy finding, quick, accessible UI, almost no lag where possible)
 (written in zig?)

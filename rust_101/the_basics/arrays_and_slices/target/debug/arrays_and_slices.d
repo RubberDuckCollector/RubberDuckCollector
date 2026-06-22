@@ -1,0 +1,1 @@
+/Users/luna/programming/RubberDuckCollector/rust_101/the_basics/arrays_and_slices/target/debug/arrays_and_slices: /Users/luna/programming/RubberDuckCollector/rust_101/the_basics/arrays_and_slices/src/main.rs
